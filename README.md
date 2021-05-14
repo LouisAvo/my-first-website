@@ -4,7 +4,9 @@
 
 To view a live example, **[click here](https://react-portfolio-template.netlify.app/)**.
 
-This repo is a fork of [react-portfolio-template](https://github.com/aavondet/react-portfolio-template) by chetanverma16. I just aded a GitHub Actions workflow so that one can simply edit `src/yourdata.js` within the GitHub website and have the changes be deployed through GitHub Pages with no need to interact with a terminal or cloniong the repo.
+This repo is a fork of [react-portfolio-template](https://github.com/aavondet/react-portfolio-template) by chetanverma16. We just aded a GitHub Actions workflow so that one can simply edit `src/yourdata.js` within the GitHub website and have the changes be deployed through GitHub Pages with no need to interact with a terminal or cloniong the repo.
+
+Worked on by Arnaud Avondet, Harry (Zhengze) Gong, and Cecilia Mendoza
 
 ## Sections
 ✔️ Header

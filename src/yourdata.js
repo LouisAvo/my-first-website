@@ -59,7 +59,7 @@ export default {
     //Line 2 For Header
     "website, hopefully",
     //Line 3 For Header
-    "it doesn't suck.",
+    "it's not terrible.",
   ],
   //   Header Paragraph
   headerParagraph:
